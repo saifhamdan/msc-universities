@@ -27,8 +27,9 @@ List the criteria being used to compare universities in this country. Copy and a
 What is the dominant language of instruction? What qualifications are typically expected for admission to English-medium programs? Are there commonly required proficiency tests, minimum scores, or specific certifications for this country's universities?
 
 Note how my current qualifications map to these thresholds:
+
 - German: B2 (certified)
-- English: TOEFL iBT 88
+- English: TOEFL iBT 89
 
 ## University tier system
 
@@ -40,12 +41,12 @@ Each university is assigned a tier using five criteria scored together:
 4. **Cost feasibility** — combined fee and city-cost pressure relative to the value of the program.
 5. **Systems or backend-engineering fit** — relevance of available programs to distributed systems, backend, or platform-engineering work.
 
-| Tier | What it means |
-| --- | --- |
+| Tier  | What it means                                                                                                                                                                                   |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A** | Meets 4–5 criteria strongly. Clear CS or Informatics research identity, international recognition, English path confirmed or very likely, cost is manageable or justified by the academic gain. |
-| **B** | Meets 3–4 criteria. Strong university with one notable caveat: high cost, language constraint, or program fit still uncertain. |
-| **C** | Meets 2–3 criteria. Respectable institution with multiple open questions about English availability, program match, or practical feasibility. |
-| **D** | One or more deal-breakers present: local-language-only teaching confirmed, applied-sciences mismatch with theory goals, or very high cost without offsetting academic value. |
+| **B** | Meets 3–4 criteria. Strong university with one notable caveat: high cost, language constraint, or program fit still uncertain.                                                                  |
+| **C** | Meets 2–3 criteria. Respectable institution with multiple open questions about English availability, program match, or practical feasibility.                                                   |
+| **D** | One or more deal-breakers present: local-language-only teaching confirmed, applied-sciences mismatch with theory goals, or very high cost without offsetting academic value.                    |
 
 ## Current reading of the landscape
 
@@ -73,17 +74,17 @@ The table is sorted by tier. Within each tier, order reflects current strategic 
 
 **Eligible?** column uses these values:
 
-| Value | Meaning |
-| --- | --- |
-| **Yes** | Meets all known requirements based on current data. Language threshold, background, and application path look clear. |
-| **Borderline** | One soft concern exists. Typically TOEFL 88 against a C1 English threshold, or B2 German for a German-medium program. |
+| Value           | Meaning                                                                                                                                                                     |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Yes**         | Meets all known requirements based on current data. Language threshold, background, and application path look clear.                                                        |
+| **Borderline**  | One soft concern exists. Typically TOEFL 89 against a C1 English threshold, or B2 German for a German-medium program.                                                       |
 | **Conditional** | Eligible in principle but a specific unverified hard requirement could block: GRE, strict subject-match scoring, or a timing constraint that is practically very difficult. |
-| **Rejected** | Explicitly excluded or previously rejected. Stays in the table as a benchmark only. |
-| **Unknown** | Not enough data to assess. Language threshold, program availability, or admission criteria still unconfirmed. |
+| **Rejected**    | Explicitly excluded or previously rejected. Stays in the table as a benchmark only.                                                                                         |
+| **Unknown**     | Not enough data to assess. Language threshold, program availability, or admission criteria still unconfirmed.                                                               |
 
 | University | City | Tier | Fee/sem (€) | Lang req | Relevant programs | Eligible? | Note |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | |
+| ---------- | ---- | ---- | ----------- | -------- | ----------------- | --------- | ---- |
+|            |      |      |             |          |                   |           |      |
 
 ## Evidence level in this first draft
 

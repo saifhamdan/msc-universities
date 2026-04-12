@@ -12,9 +12,9 @@
 ## Language qualifications
 
 - German: B2 (certified)
-- English: TOEFL iBT 88
+- English: TOEFL iBT 89
 
-TOEFL 88 satisfies most B2 English admission thresholds. Programs listing C1 English requirements typically ask for TOEFL 90 or higher, so it is worth checking the exact cutoff per program before applying.
+TOEFL 89 satisfies most B2 English admission thresholds. Programs listing C1 English requirements typically ask for TOEFL 90 or higher, so it is worth checking the exact cutoff per program before applying.
 
 ## Professional profile
 
