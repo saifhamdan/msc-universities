@@ -68,11 +68,11 @@ Please list all courses in your degree program that you have successfully passed
 | National Culture                                 | University of Jordan | A          | 5                    |
 | Communication Skills                             | University of Jordan | A-         | 5                    |
 | Human Civilization                               | University of Jordan | A          | 5                    |
-| English Language Skills                          | University of Jordan | Pass (P/F) | 5                    |
+| English Language Skills                          | University of Jordan | Pass (P/F) | 0                    |
 | Introduction to Philosophy and Critical Thinking | University of Jordan | B+ (P/F)   | 5                    |
 | Islamic Culture                                  | University of Jordan | B (P/F)    | 5                    |
 | Islam and Contemporary Issues                    | University of Jordan | A          | 5                    |
-| Arabic Language Skills                           | University of Jordan | Pass (P/F) | 5                    |
+| Arabic Language Skills                           | University of Jordan | Pass (P/F) | 0                    |
 | Military Sciences                                | University of Jordan | A          | 5                    |
 
 ---
