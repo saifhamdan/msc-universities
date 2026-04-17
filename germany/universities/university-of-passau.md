@@ -37,6 +37,13 @@ Passau is interesting because it seems to combine a strong student-city environm
 - Master's overview: https://www.uni-passau.de/en/masters-degrees
 - Application page: https://www.uni-passau.de/en/apply
 
+## Confirmed double degree options in Computer Science
+
+- Prague, Czech Republic: Joint Study Programme with Charles University in Prague in Computer Science - Software and Data Engineering. The pathway runs for 4 semesters, starts in October, is taught in English, and leads to an M.Sc. from Passau plus a Magistr (Mgr.) from Charles University. Official page: https://www.uni-passau.de/en/msc-computer-science/joint-master-prague
+- Evry, France: Double degree pathway with ENSIIE Evry. The pathway typically lasts 4 to 5 semesters, starts in April or October, and leads to an M.Sc. from Passau plus the Diplome d'Ingenieur ENSIIE. The profile is more applied and includes visible strengths in software, security, AI, and digital innovation. Official page: https://www.uni-passau.de/en/msc-computer-science/double-degree-with-evry
+- Lyon, France: Double degree pathway with INSA Lyon in Informatique - Information and Communication. The pathway generally lasts 4 to 5 semesters, starts in April or October, and leads to an M.Sc. from Passau plus the Diplome d'Ingenieur Informatique from INSA Lyon. The structure combines research orientation with projects, internship elements, and Franco-German collaboration. Official page: https://www.uni-passau.de/en/msc-computer-science/double-degree-with-lyon
+- Tunis, Tunisia: Passau also lists double-degree cooperation in Computer Science with SUP'COM Tunis and ENSI Tunis through its master's programme pages. I have confirmed the partnership signal from the official master's overview, but the exact structure needs a second pass before relying on duration or application details. Starting point: https://www.uni-passau.de/en/msc-computer-science
+
 ## My current take
 
 Passau is more interesting than its general prestige level might initially suggest. If the AI or digital-systems options fit well enough, this could become a serious application target.
