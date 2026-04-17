@@ -54,12 +54,13 @@ Category total: 15 CP
 | 8        | Information Systems Projects Management          | 5 CP    |
 | 7        | Information System Innovation and New Technology | 5 CP    |
 | 10       | Geographical Information Systems                 | 5 CP    |
+| 7        | Computer Assisted Learning                       | 5 CP    |
 | 10       | Project 1                                        | 0 CP    |
 | 11       | Project 2                                        | 5 CP    |
 | 11       | Training                                         | 0 CP    |
 | 3        | Documentation and Ethics                         | 5 CP    |
 
-Category total: 135 CP
+Category total: 140 CP
 
 ## IT Security
 
@@ -67,8 +68,46 @@ Category total: 135 CP
 | -------- | -------------------------------- | ------- |
 | 7        | Information Security and Privacy | 5 CP    |
 
-Category total: 10 CP
+Category total: 5 CP
+
+## General Education and University Requirements
+
+| Semester | Course                                           | Credits |
+| -------- | ------------------------------------------------ | ------- |
+| 2        | Learning & Research Skills                       | 5 CP    |
+| 3        | National Culture                                 | 5 CP    |
+| 3        | Communication Skills                             | 5 CP    |
+| 3        | Human Civilization                               | 5 CP    |
+| 4        | English Language Skills                          | 5 CP    |
+| 5        | Introduction to Philosophy and Critical Thinking | 5 CP    |
+| 6        | Islamic Culture                                  | 5 CP    |
+| 8        | Islam and Contemporary Issues                    | 5 CP    |
+| 9        | Arabic Language Skills                           | 5 CP    |
+| 11       | Military Sciences                                | 5 CP    |
+
+Category total: 50 CP
+
+## Exempted Courses (placement)
+
+| Course              | Credits | Reason                 |
+| ------------------- | ------- | ---------------------- |
+| Basics of Computing | 5 CP    | Passed qualifying exam |
+| Basics of Arabic    | 5 CP    | Passed qualifying exam |
+| Basics of English   | 5 CP    | Passed qualifying exam |
+
+These courses were exempted before enrolment and are not counted in the degree total.
+
+## Placement Tests (0 CP)
+
+- Computer Skills Placement Test
+- Arabic Placement Test
+- English Placement Test
+
+These carry no credit and are not counted.
 
 ## Overall Credit Count
 
-Total counted credits from the list above: 180 CP
+IT / CS credits: 180 CP (Theoretical CS 20 + Mathematics 15 + Programming & IS 140 + IT Security 5)
+General education credits: 50 CP
+
+Total counted credits from the list above: 230 CP
