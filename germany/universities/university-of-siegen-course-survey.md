@@ -75,8 +75,8 @@ Sample topics from the form: operating systems, web engineering, compiler constr
 | Semester | Course Name                    | Credits |
 | -------- | ------------------------------ | ------- |
 | 2        | Web Applications Development 1 | 5 CP    |
-| 6        | Web Application Development 2  | 5 CP    |
-| 6        | Operating Systems              | 5 CP    |
+
+| 6 | Operating Systems | 5 CP |
 
 Category total: 15 CP
 

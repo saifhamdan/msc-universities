@@ -34,7 +34,6 @@ Please list all courses in your degree program that you have successfully passed
 | Object Oriented Programming 1                    | University of Jordan | A            | 3            |
 | Object Oriented Programming 2                    | University of Jordan | B- (P/F)     | 3            |
 | Web Applications Development 1                   | University of Jordan | A-           | 3            |
-| Web Application Development 2                    | University of Jordan | B (P/F)      | 3            |
 | Introduction to Database Systems                 | University of Jordan | B (P/F)      | 3            |
 | Advanced Databases                               | University of Jordan | A-           | 3            |
 | Distributed Databases                            | University of Jordan | B+           | 3            |

@@ -39,7 +39,6 @@ Category total: 15 CP
 | 4        | Object Oriented Programming 1                    | A     | 5 CP    |              |
 | 5        | Object Oriented Programming 2                    | B-    | 5 CP    | P/F (Corona) |
 | 2        | Web Applications Development 1                   | A-    | 5 CP    |              |
-| 6        | Web Application Development 2                    | B     | 5 CP    | P/F (Corona) |
 | 4        | Introduction to Database Systems                 | B     | 5 CP    | P/F (Corona) |
 | 10       | Advanced Databases                               | A-    | 5 CP    |              |
 | 9        | Distributed Databases                            | B+    | 5 CP    |              |
