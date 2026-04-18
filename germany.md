@@ -37,23 +37,28 @@ I am not optimizing for ranking alone. The current Germany research uses these c
 - Technical University of Darmstadt
 - University of Freiburg
 - LMU Munich
+- University of Bremen
 
 ### Interesting options that may be underrated
 
 - University of Bonn
+- University of Kassel
 - University of Paderborn
 - University of Passau
 - University of Göttingen
 - Saarland University
 - University of Regensburg
+- TU Dortmund University
+- University of Potsdam
+- University of Duisburg-Essen
 
 ### Need clearer program-fit verification
 
 - University of Tübingen
-- University of Duisburg-Essen
 - Otto von Guericke University Magdeburg
 - University of Siegen
 - Aalen University
+- University of Hildesheim
 
 ## University tier system
 
@@ -99,6 +104,7 @@ The table is sorted by tier. Within each tier, order reflects current strategic 
 | TU Berlin                              | Berlin         | A    | ~350        | B2 (English) | 301–350          | MSc CS (summer, apply Jun–Aug 2026)      | Yes         | [TU Berlin](./germany/universities/tu-berlin.md)                         | 01 Jun-31 Aug 2026                             |                              |
 | Technical University of Darmstadt      | Darmstadt      | A    | ~350        | C1 (English) | 251–300          | MSc Informatics, MSc CS                  | Borderline  | [TU Darmstadt](./germany/universities/tu-darmstadt.md)                   | Before Jul 2026; verify per program            |                              |
 | Karlsruhe Institute of Technology      | Karlsruhe      | A    | ~1500       | B2 (English) | 119              | MSc CS (summer, opens May 2026)          | Yes         | [KIT](./germany/universities/kit.md)                                     | N/A for current CS target; summer intake only  |                              |
+| University of Kassel                   | Kassel         | B    | ~350        | B2 (English) | 601–800          | MSc Computer Science                     | Yes         | Official page confirms English-taught CS master's; no GRE noted          | 01 Mar-15 Jul 2026 for foreign certificates    |                              |
 | University of Paderborn                | Paderborn      | B    | ~300        | B2 (English) | 601–800          | MSc CS (via uni-assist, deadline 31 May) | Conditional | [Paderborn](./germany/universities/university-of-paderborn.md)           | 31 May 2026                                    |                              |
 | University of Passau                   | Passau         | B    | ~373        | B2 (English) | 601–800          | MSc AI, MSc Digital Sciences             | Yes         | [Passau](./germany/universities/university-of-passau.md)                 | 15 Apr-31 May direct; 01 Apr-31 May uni-assist |                              |
 | University of Freiburg                 | Freiburg       | B    | 100–300     | C1 (English) | 128              | MSc CS (summer, Jun–Jul apply)           | Borderline  | [Freiburg](./germany/universities/university-of-freiburg.md)             | 01 Jun-15 Jul 2026                             |                              |
@@ -107,10 +113,14 @@ The table is sorted by tier. Within each tier, order reflects current strategic 
 | LMU Munich                             | Munich         | B    | ~350        | TBD          | 34               | TBD (winter only)                        | Unknown     | [LMU Munich](./germany/universities/lmu-munich.md)                       | 15 Jul 2026                                    |                              |
 | TUM                                    | Munich         | B    | ~6000       | TBD          | 30               | MSc CS, MSc Informatics                  | Unknown     | [TUM](./germany/universities/tum.md)                                     | TBD; verify per program                        |                              |
 | University of Stuttgart                | Stuttgart      | B    | ~1500       | B2 (English) | 251–300          | TBD                                      | Conditional | [Stuttgart](./germany/universities/university-of-stuttgart.md)           | Special English-master deadline; verify page   |                              |
+| University of Bremen                   | Bremen         | B    | ~300        | B2 (English) | 301–400          | MSc AIIS (English, restricted), MSc CS (German) | Borderline  | Strong AI/robotics research; DFG-funded; AIIS is English-medium but WiSe 2026/27 deadline already passed (was 15 Mar); CS master is German | AIIS: closed (15 Mar 2026); CS master: 01 Apr–31 May 2026 |             |
 | University of Tübingen                 | Tübingen       | C    | TBD         | TBD          | 86               | MSc ML (confirmed), others TBD           | Unknown     | [Tübingen](./germany/universities/university-of-tubingen.md)             | TBD; not yet verified                          |                              |
 | University of Siegen                   | Siegen         | C    | ~373        | TBD          | 801–1000         | TBD                                      | Unknown     | [Siegen](./germany/universities/university-of-siegen.md)                 | 01 Jan-30 Apr 2026                             | Submitted, awaiting response |
 | University of Regensburg               | Regensburg     | C    | ~198        | B2 (English) | 401–500          | TBD                                      | Yes         | [Regensburg](./germany/universities/university-of-regensburg.md)         | Late Apr-Jun 1 2026                            |                              |
-| University of Duisburg-Essen           | Duisburg/Essen | D    | TBD         | German only  | 201–250          | TBD                                      | Borderline  | [Duisburg-Essen](./germany/universities/university-of-duisburg-essen.md) | TBD; verify per program                        |                              |
+| TU Dortmund University                 | Dortmund       | C    | ~300        | German / English (DS) | 401–500    | MSc Applied CS (German), MSc Data Science (English) | Conditional | No English CS master; MSc Data Science is English workaround (stats/CS background accepted); UA Ruhr network; strong Ruhr industry ties | TBD; no NC, rolling admission                  |                              |
+| University of Potsdam                  | Potsdam        | C    | ~320        | B2 (English) | 601–800          | MSc Data Science (English), MSc Cognitive Systems (English) | Conditional | No traditional CS MSc in English; Data Science and Cognitive Systems confirmed English-taught; 30 min from Berlin by S-Bahn; good AI/DS orientation | TBD; verify per program                        |                              |
+| University of Hildesheim               | Hildesheim     | C    | ~300        | B2 (English) | Not ranked       | MSc Data Analytics (English), MSc Software Engineering (English), MSc Applied CS (German) | Yes | Small accessible university; international programs confirmed; diverse backgrounds welcome; limited CS research identity; low-risk application | TBD; verify winter 2026/27 deadline            |                              |
+| University of Duisburg-Essen           | Duisburg/Essen | C    | ~300        | Bilingual (ISE) | 201–250        | MSc Computer Engineering (ISE, bilingual) | Borderline  | [Duisburg-Essen](./germany/universities/university-of-duisburg-essen.md); ISE Computer Engineering is bilingual; main Applied CS is German-only | TBD; verify ISE program deadlines              |                              |
 | Otto von Guericke University Magdeburg | Magdeburg      | D    | TBD         | German only  | 601–800          | TBD                                      | Borderline  | [OVGU Magdeburg](./germany/universities/ovgu-magdeburg.md)               | TBD; not yet verified                          |                              |
 | Aalen University                       | Aalen          | D    | ~1500       | B2 (English) | Not ranked       | MSc CS, MSc AI (applied only)            | Yes         | [Aalen](./germany/universities/aalen-university.md)                      | 15 Mar 2026 for English-language master's      |                              |
 
